@@ -1,14 +1,16 @@
-# Description:
-A demo to try and show color tracking
+# color-tracking-demo
 
-# Requires:
-CMake >= 2.8
-OpenCV >= 2.4 (can also be a own-built version, edit the CMakeLists.txt accordingly)
+## Description:
+A demo to fool-around with and show color tracking possibilities
 
-# Install:
-`mkdir build`
-`cd build`
-`cmake ..`
+## Requires:
+    CMake >= 2.8
+    OpenCV >= 2.4 (can also be a own-built version, edit the CMakeLists.txt accordingly)
 
-# Run:
-`./color-tracking-demo`
+## Install:
+    mkdir build
+    cd build
+    cmake ..
+
+## Run:
+    ./color-tracking-demo
