@@ -1,0 +1,47 @@
+Info cameras
+
+Formats
+USB:
+cable limitations http://www.yourcablestore.com/USB-Cable-Length-Limitations-And-How-To-Break-Them_ep_42-1.html
+HDMI
+Gige
+FireWire->has issues on windows
+Time-of-flight prices over $1.000
+https://forum.libcinder.org/topic/future-is-here-time-of-flight-camera-for-150-from-intel-with-sdk
+camera link
+ip cameras
+
+
+CMOS/CCD cameras
+
+
+Vendor
+http://www.ptgrey.com
+http://www.teledynedalsa.com/imaging/products/cameras/area-scan/genie/
+http://www.edmundoptics.com/imaging/cameras/gigabit-ethernet-cameras/basler-gige-ip-cameras/3185
+
+
+
+Gige
+http://www.pixelink.com/products/industrial-machine-vision/professional-hr-ccd-industrial-cameras.aspx
+
+- you can use multiple cameras
+
+http://www.alliedvisiontec.com/us/products/cameras.html
+
+http://www.alliedvisiontec.com/us/products/cameras/gigabit-ethernet/prosilica-ge.html
+
+http://www.1stvision.com/elearning/GigECameras_Myths_Facts.pdf
+
+//Gige licence 
+http://stackoverflow.com/questions/13921825/platform-independent-gige-vision-driver
+
+//OpenCV with Gige cameras
+http://stackoverflow.com/questions/3345467/opencv-with-gige-vision-cameras
+http://stackoverflow.com/questions/9459133/prosilica-gige-camera-with-opencv-python?rq=1
+http://stackoverflow.com/questions/3345467/opencv-with-gige-vision-cameras?rq=1
+//IP camera
+http://stackoverflow.com/questions/25343731/accessing-ip-cameras-with-opencv?rq=1
+
+//Gait analysis
+http://www.zflomotion.com/blog/bid/356895/GigE-vs-IP-which-cameras-are-ideal-for-gait-analysis
