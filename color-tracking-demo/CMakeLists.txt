@@ -4,7 +4,7 @@ project( color-tracking-demo )
 
 # If you build opencv from source, provide the path here
 # Otherwise comment this and it should work
-SET(OpenCV_DIR ~/code/opencv/build)
+#SET(OpenCV_DIR ~/code/opencv/build)
 
 find_package( OpenCV REQUIRED )
 
