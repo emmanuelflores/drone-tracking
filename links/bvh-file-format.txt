@@ -1,0 +1,4 @@
+BVH file format is the file format used for motion tracking
+http://research.cs.wisc.edu/graphics/Courses/cs-838-1999/Jeff/BVH.html (format description)
+https://sites.google.com/a/cgspeed.com/cgspeed/bvhplay (seems to be a very basic python bvh animation player didn't get it to work yet though)
+https://github.com/assimp/assimp (c++ lib to load/read bvh)
