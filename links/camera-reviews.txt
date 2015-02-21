@@ -19,6 +19,7 @@ Vendor
 http://www.ptgrey.com
 http://www.teledynedalsa.com/imaging/products/cameras/area-scan/genie/
 http://www.edmundoptics.com/imaging/cameras/gigabit-ethernet-cameras/basler-gige-ip-cameras/3185
+http://www.optitrack.com/products/prime-13/
 
 
 
@@ -45,3 +46,7 @@ http://stackoverflow.com/questions/25343731/accessing-ip-cameras-with-opencv?rq=
 
 //Gait analysis
 http://www.zflomotion.com/blog/bid/356895/GigE-vs-IP-which-cameras-are-ideal-for-gait-analysis
+
+
+
+http://www.optitrack.com/products/prime-13/
