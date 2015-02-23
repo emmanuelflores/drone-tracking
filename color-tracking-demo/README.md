@@ -11,6 +11,7 @@ A demo to fool-around with and show color tracking possibilities
     mkdir build
     cd build
     cmake ..
+    make
 
 ## Run:
     ./color-tracking-demo
