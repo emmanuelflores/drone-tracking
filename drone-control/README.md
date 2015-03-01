@@ -11,6 +11,7 @@ This is a guide to setup a development environment for software to control the c
 ## Step 1
 - On github fork https://github.com/emmanuelflores/drone-tracking to your account.
 - Clone this fork
+
     git clone git@github.com:gh-username/drone-tracking.git
 
 ## Step 2
