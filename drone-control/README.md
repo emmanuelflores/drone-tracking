@@ -3,6 +3,10 @@
 ## Description:
 This is a guide to setup a development environment for software to control the crazyflie.
 
+## Requires:
+    git
+    CMake >= 2.8
+
 ## Step 0
 - Create global directory for all code repositories; e.g. ~/User/code
 - Navigate to this directory
@@ -45,20 +49,3 @@ Build the drone-control demo
     make install
 
 Demo executable is in /bin
-
-## Requires:
-
-    CMake >= 2.8
-    OpenCV >= 2.4 (can also be a own-built version, edit the CMakeLists.txt accordingly)
-
-## Install
-
-    mkdir build
-    cd build
-    cmake ..
-
-## Run
-
-```
-./color-tracking-demo
-```
