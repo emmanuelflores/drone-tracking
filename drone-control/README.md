@@ -21,11 +21,11 @@ This is a guide to setup a development environment for software to control the c
   ```
 
 ## Step 2
-Get and build libusb-1.0
+Get and build libusb-1.0 (for Windows follow the instructions from libusb/INSTALL_WIN.txt)
 
-    git clone git://git.libusb.org/libusb.git
+    git clone git@github.com:libusb/libusb.git
     ./autogen.sh
-    ./configure.sh
+    ./configure
     make
     make install
 
